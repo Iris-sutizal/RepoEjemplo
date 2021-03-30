@@ -10,3 +10,10 @@ A = What is your favorite color  ?
 B = my favorite color is pink  , and you ?
 A = my favorite colors are blue and green 
 A = a very rare mix 
+
+#
+
+A = Hi, where do you live ?
+B = i live in ravelo in italy , you are also from here in Italy?
+A = no, I'm from peru, from chiclayo
+B = or beautiful city, beautiful country
