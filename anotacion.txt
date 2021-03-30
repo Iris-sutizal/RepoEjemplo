@@ -1,0 +1,5 @@
+A =Hello 
+B =Hi , what is your name ?
+A = my name is ana  , and you  ?
+B = my name is Bruna  , nice too meet you  ana 
+B = nice too meet you too 
